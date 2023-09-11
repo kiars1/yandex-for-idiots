@@ -19,7 +19,7 @@
 
   В зависимости от темы ПК/Телефона выбранными пользователем, сайт меняет свое оформление.
 
-  > <img src="./image/demo1.png" max-width="300" title="Pascal Vent">
+  > <img src="./image/demo.png" max-width="300" title="Pascal Vent">
 
 ## Ссылка на проект
 
